@@ -1,4 +1,5 @@
-# ADS-505-Final-Team-Project
+# ADS-505 Final Team Project 
+### Predicting DoorDash Delivery Duration with Machine Learning
 
 This project is a part of the ADS-505 course in the Applied Data Science Program at the University of San Diego.
 
