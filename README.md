@@ -53,7 +53,7 @@ Delivery time is a critical part of the customer experience, especially for a se
 
 # Project Description
 
-The DoorDash ETA prediction dataset consists of 197,428 delivery records from 2015. It describes order details and times, store features, market information, and other correlated estimations, and is sourced from Kaggle. There are a total of 16 variables, and a response variable `delivery_duration` is be created representing the time from when the order was created to actual delivery time in minutes.
+The DoorDash ETA prediction dataset consists of 197,428 delivery records from 2015. It describes order details and times, store features, market information, and other correlated estimations, and is sourced from Kaggle. There are a total of 16 variables, and a response variable `delivery_duration` is created representing the time from when the order was created to actual delivery time in minutes.
 
 ## Questions and methods: 
 
@@ -61,7 +61,7 @@ Questions explored include the extent to which DoorDash delivery duration can be
 
 - Preparing the data for modelling (cleaning, addressing missing values and outliers, encoding categorical variables)
 - Exploring distributions, relationships to delivery duration, and correlated features 
-- Partitioning the data using a 60/20/20 train-test-split 
+- Partitioning the data using a 60/20/20 train-validation-test-split 
 - Developing Linear Regression, XGBoost, Random Forest, and Histogram Gradient Boosting models
 - Hyperparameter tuning
 - Evaluating with mean absolute error (MAE), root mean squared error (RMSE), R², and bias
