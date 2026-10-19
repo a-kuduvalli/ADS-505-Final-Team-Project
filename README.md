@@ -19,7 +19,7 @@ Then:
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ```
 
-2. Download the Doordash ETA Prediction dataset (`historical_data.csv`) from [Kaggle](https://www.kaggle.com/datasets/dharun4772/doordash-eta-prediction/data).
+2. Download the Doordash ETA Prediction dataset `historical_data.csv` from [Kaggle](https://www.kaggle.com/datasets/dharun4772/doordash-eta-prediction/data).
 3. Save `historical_data.csv` in the same folder as `___`
 4. Run all cells in `____`.
 
