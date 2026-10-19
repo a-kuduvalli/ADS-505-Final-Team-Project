@@ -20,8 +20,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ```
 
 2. Download the Doordash ETA Prediction dataset (`historical_data.csv`) from [Kaggle](https://www.kaggle.com/datasets/dharun4772/doordash-eta-prediction/data).
-3. Save `historical_data.csv` in the same folder as `ADS-505 Final Project Team 6.ipynb`
-4. Run all cells in `ADS-505 Final Project Team 6.ipynb`.
+3. Save `historical_data.csv` in the same folder as `___`
+4. Run all cells in `____`.
 
 # Project Introduction / Objective
 
@@ -29,9 +29,9 @@ Delivery time is a critical part of the customer experience, especially for a se
 
 # Contributions
 
-- Julia Gonzalez: Problem statement, Model 1 and 2, results and findings, discussion and conclusion, executive brief, 
-- Caly Nguyen: Model 3 and 4, results and findings, discussion and conclusion, executive brief, 
-- Aishwarya Kuduvalli: Problem statement, data description, data pre-processing, EDA, final model evaluation, discussion and conclusion, executive brief 
+- Julia Gonzalez: Problem statement, Model 1 and 2, modeling results and findings, discussion and conclusion, executive brief, executive presentation 
+- Caly Nguyen: Model 3 and 4, modeling results and findings, discussion and conclusion, executive brief, executive presentation 
+- Aishwarya Kuduvalli: Problem statement, data description, data pre-processing, EDA, final model evaluation, discussion and conclusion, executive brief, executive presentation
 
 # Methods Used 
 
