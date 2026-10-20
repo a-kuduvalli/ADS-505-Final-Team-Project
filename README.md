@@ -57,7 +57,10 @@ Delivery time is a critical part of the customer experience, especially for a se
 
 The DoorDash ETA prediction dataset consists of 197,428 delivery records from 2015. It describes order details and times, store features, market information, and other correlated estimations, and is sourced from Kaggle. There are a total of 16 variables, and a response variable `delivery_duration` is created representing the time from when the order was created to actual delivery time in minutes.
 
-### Questions and methods: 
+Data Source: 
+dharun4772. (n.d.). DoorDash ETA prediction \[Dataset]. Kaggle. https://www.kaggle.com/datasets/dharun4772/doordash-eta-prediction/data
+
+### Questions and methods 
 
 Questions explored include the extent to which DoorDash delivery duration can be accurately estimated, what machine learning methods perform best in this regard, and what variables contribute the most to delivery duration. The analysis involved: 
 
@@ -68,7 +71,13 @@ Questions explored include the extent to which DoorDash delivery duration can be
 - Hyperparameter tuning
 - Evaluating with mean absolute error (MAE), root mean squared error (RMSE), R², and bias
 - Determining feature importance 
-- Selecting and evaluation a final model on the test set 
+- Selecting and evaluation a final model on the test set
+
+### Challenges 
+
+- Selecting a final model (validation results split between XGBoost and Gradient Boosting)
+- All models ultimately struggled with underestimating longer deliveries
+- The dataset included data from 2015 and may not be relevant to today's operations
 
 ## License
 
