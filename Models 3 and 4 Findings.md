@@ -45,5 +45,5 @@ how well the model holds up when operations change.
 ## How to run
 
 Keep `training.csv` (or `train.csv`), `validation.csv`, and `test.csv` in the
-project folder, then run `ADS 505 Final Project - Models 3 and 4.ipynb` from top
+project folder. Run `Technical_Notebook-Team6` from top
 to bottom. The notebook writes its result tables to `results/`.
