@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 ## Project Introduction / Objective
 
-Delivery time is a critical part of the customer experience, especially for a service like DoorDash, where customers expect to know when their food will arrive. The main purpose of this project is to examine the relationship between order, market, and store-related information, and DoorDash delivery duration, with the aim of estimating the outcome using four machine learning models. By considering these factors together, the team hopes to better understand what affects delivery duration, whether machine learning can help produce more accurate estimates, manage customer expectations, and improve the general customer experience. 
+Delivery time is a critical part of the customer experience, especially for a service like DoorDash, where customers expect to know when their food will arrive. The main purpose of this project is to examine the relationship between order, market, and store-related information, and DoorDash delivery duration, with the aim of estimating the outcome using four machine learning models. By considering these factors together, the team hopes to understand whether machine learning can help produce more accurate delivery estimates, manage customer expectations, and improve the general customer experience. 
 
 ## Contributions
 
