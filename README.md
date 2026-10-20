@@ -31,9 +31,9 @@ Delivery time is a critical part of the customer experience, especially for a se
 
 ## Contributions
 
-- Julia Gonzalez: Problem statement, Model 1 and 2, modeling results and findings, discussion and conclusion, executive brief, executive presentation 
-- Caly Nguyen: Model 3 and 4, modeling results and findings, discussion and conclusion, executive brief, executive presentation 
-- Aishwarya Kuduvalli: Problem statement, data description, data pre-processing, EDA, final model evaluation, discussion and conclusion, executive brief, executive presentation
+- Julia Gonzalez: Problem statement, Model 1 and 2, modeling results and findings, discussion and conclusion, executive brief, executive presentation (recommendation / call to action and next steps)
+- Caly Nguyen: Model 3 and 4, modeling results and findings, discussion and conclusion, executive brief, executive presentation (solutions explored and conclusions)
+- Aishwarya Kuduvalli: Problem statement, data description, data pre-processing, EDA, final model evaluation, discussion and conclusion, executive brief, executive presentation (problem, future improvements)
 
 ## Methods Used 
 
