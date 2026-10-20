@@ -33,4 +33,4 @@ Another limitation is that the team used a random data split rather than separat
 
 ## How to run
 
-Keep `training.csv`, `validation.csv`, and `test.csv` in the main project folder. Run `ADS 505 Final Project - Models 1 and 2` from beginning to end. The notebook trains both models, evaluates their performance, and saves the validation results, test results, and feature importance scores in the shared `results/` folder.
+Keep `training.csv`, `validation.csv`, and `test.csv` in the main project folder. Run `Technical_Notebook-Team6` from beginning to end. The notebook trains both models, evaluates their performance, and saves the validation results, test results, and feature importance scores in the shared `results/` folder.
